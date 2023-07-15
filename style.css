@@ -1,0 +1,30 @@
+body{
+    background-color: aliceblue;
+}
+
+
+h1{
+    text-align: center;
+    background-color: rgb(188, 172, 172);
+    color: aliceblue;
+    padding-top:50px;
+    
+}
+.container{
+    text-align: center;
+    background-color: aliceblue;
+}
+.container1{
+    text-align: center;
+    background-color: aliceblue;
+}
+.container2{
+    border-inline-width: 12px;
+    text-align: center;
+    background-color: aliceblue;
+
+
+}
+.container3{
+    text-align: center;
+}
